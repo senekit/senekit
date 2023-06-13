@@ -1,9 +1,37 @@
-- 👋 Hi, I’m @senekit
-- 👀 I’m interested in 🙋🙋🙋🐠🐠🐠
-- 🌱 I’m currently learning py/heartStone？
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ：） just send email to senekit@qq.com if you have any questions
-- 🍔 Have a nice day！
+# 👋 Hi, I’m @senekit
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=senekit.senekit)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Luyao Wang"
+        self.major = "Software Engineering"
+        self.language_spoken = ["zh_CN", "en_US"]
+
+    def say_hi(self):
+        print("Thanks you for your interest.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 <!---
 senekit/senekit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
