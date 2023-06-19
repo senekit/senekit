@@ -13,7 +13,8 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Luyao Wang"
         self.major = "Software Engineering"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.language = ["zh_CN", "en_US"]
+        self.dead_pull = 100
 
     def say_hi(self):
         print("Thank you for your interest.")
