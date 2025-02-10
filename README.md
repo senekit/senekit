@@ -12,7 +12,7 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Luyao Wang"
+        self.name = "Ruyao Wang"
         self.major = "Software Engineering"
         self.language = ["zh_CN", "en_US"]
         self.dead_pull = 100
